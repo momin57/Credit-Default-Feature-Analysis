@@ -94,6 +94,7 @@ Default_Rate = DIVIDE(
 )
 
 ---
+```
 
 ## 📈 Key Insights
 

@@ -18,7 +18,6 @@ This project investigates behavioral and financial patterns of credit card custo
 ├── cleaned_data/
 │   ├── final_data.csv
 │   └── working_credit_card_instances_data.csv
-├── model_predictions.csv
 ├── xgboost_feature_importance.csv
 ├── model_classification_report.csv
 ├── confusion_matrix_table.csv

@@ -91,8 +91,6 @@ Default_Rate = DIVIDE(
     CALCULATE(COUNTROWS('final_data'), 'final_data'[default payment next month] = 1),
     COUNTROWS('final_data')
 )
-
----
 ```
 
 ## 📈 Key Insights

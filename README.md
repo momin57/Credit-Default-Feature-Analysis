@@ -9,6 +9,9 @@ This project investigates behavioral and financial patterns of credit card custo
 ```
 ├── Images/
 │   └── Dashboard.png
+│   └── Classification report.png
+│   └── confusion matrix.png
+│   └── feature_importance.png
 ├── ML_model/
 │   ├── ML_Model_Imp.py
 │   └── visualizeMlmodelResults.py
